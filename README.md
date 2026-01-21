@@ -1,5 +1,7 @@
 # Project Status: Architecture Design & Algorithm Selection
+![Status](https://img.shields.io/badge/Status-Architecture%20Design-blue)
 
+![Status](https://img.shields.io/badge/Status-Data%20Acquisition-yellow)
 Objective: Developing a hybrid optimization engine to solve multi-objective resource allocation problems in $500M+ industrial portfolios.
 
 ##  Proposed Architecture:
